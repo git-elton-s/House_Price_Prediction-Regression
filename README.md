@@ -2,8 +2,8 @@
 
 This project builds a full end-to-end regression system to predict house sale prices using the classic House Prices: Advanced Regression Techniques dataset from Kaggle. The notebook was developed in Google Colab and follows a complete machine learning workflow: deep EDA, professional-grade preprocessing, feature engineering, model training, evaluation, and final submission creation.
 
-[Google Colab Notebook](https://colab.research.google.com/drive/1kjoC66-eGSKgwyA8y9yF_7f9su3UH_pY?usp=sharing)
-[Dataser Sourcs](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1kjoC66-eGSKgwyA8y9yF_7f9su3UH_pY?usp=sharing)
+- [Dataser Source](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 Goal:
 To understand the structure of residential property data and construct a model that accurately estimates housing prices by capturing relationships among quality, structure, geography, and age.
